@@ -1,5 +1,5 @@
 # InfluencerSponsorPlatform
-#1. Student Details
+1. Student Details
 This section should include your personal details, such as:
  Name: Rashi Sharma
  Course/Program: Modern Application Development II
